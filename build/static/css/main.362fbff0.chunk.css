@@ -39,12 +39,11 @@ h1 {
     z-index: 1;
     text-align: center;
     padding: 90px 0;
-    margin-right: 137px;
 }
 
 .shape-container {
-    visibility: hidden;
-    height: 0px;
+    height: 10px;
+    color: #ffffff;
 }
 .logos {
     visibility: hidden;
