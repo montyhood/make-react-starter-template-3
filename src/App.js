@@ -8,15 +8,9 @@ import './App.css';
 function App({ headline, showLogos, backgroundImage }) {
   return (
     <div className="App" style={{ backgroundImage: `url('${backgroundImage}')` }}>
-      {showLogos && (
-        <Logos logoOne={<MakeLogo />} logoTwo={<ReactLogo />} />
-      )}
 
       <h1>{headline}</h1>
 
-      <div className="shape-container">
-        <Shapes />
-      </div>
     </div>
   );
 }
