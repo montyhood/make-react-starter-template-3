@@ -44,7 +44,6 @@ h1 {
 }
 
 .shape-container {
-    height: 100vh;
     visibility: hidden;
     height: 0px;
 }
@@ -72,7 +71,6 @@ h1 {
 .seperator {
     place-self: flex-end;
     border-left: 2px solid #fff;
-    height: 100%;
     visibility: hidden;
     height: 0px;
 }
