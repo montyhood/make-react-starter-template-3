@@ -45,10 +45,15 @@ h1 {
     visibility: hidden;
     height: 0px;
 }
-
+.logos {
+    visibility: hidden;
+    height: 0px;
+}
+.logos svg {
+    visibility: hidden;
+    height: 0px;
+}
 .seperator {
-    place-self: flex-end;
-    border-left: 2px solid #fff;
     visibility: hidden;
     height: 0px;
 }
