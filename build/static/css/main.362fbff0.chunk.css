@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    border: 1px solid #00ff00;
 }
 body,
 html {
@@ -45,6 +46,7 @@ h1 {
 .shape-container {
     visibility: hidden;
     height: 0px;
+    border: 1px solid #00ff00;
 }
 .logos {
     display: grid;
@@ -58,6 +60,7 @@ h1 {
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
     visibility: hidden;
     height: 0px;
+    border: 1px solid #00ff00;
 }
 .logos svg {
     display: block;
@@ -65,10 +68,12 @@ h1 {
     height: clamp(1rem, 5vw, 3rem);
     visibility: hidden;
     height: 0px;
+    border: 1px solid #00ff00;
 }
 .seperator {
     place-self: flex-end;
     border-left: 2px solid #fff;
     visibility: hidden;
     height: 0px;
+    border: 1px solid #00ff00;
 }
