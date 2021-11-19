@@ -42,8 +42,8 @@ h1 {
 }
 
 .shape-container {
-    height: 10px;
-    color: #ffffff;
+    visibility: hidden;
+    height: 0px;
 }
 .logos {
     visibility: hidden;
