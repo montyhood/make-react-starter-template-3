@@ -42,12 +42,11 @@ h1 {
     z-index: 1;
     text-align: center;
 }
-
-/*
 .shape-container {
     visibility: hidden;
     height: 0px;
 }
+/*
 .logos {
     display: grid;
     grid-gap: 1rem;
