@@ -44,6 +44,7 @@ h1 {
 
 .shape-container {
     height: 100vh;
+    visibility: hidden;
 }
 
 .logos {
@@ -56,14 +57,17 @@ h1 {
     border-radius: 3rem;
     z-index: 2;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+    visibility: hidden;
 }
 .logos svg {
     display: block;
     width: clamp(1rem, 5vw, 3rem);
     height: clamp(1rem, 5vw, 3rem);
+    visibility: hidden;
 }
 .seperator {
     place-self: flex-end;
     border-left: 2px solid #fff;
     height: 100%;
+    visibility: hidden;
 }
