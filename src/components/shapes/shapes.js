@@ -1,4 +1,4 @@
-import './shapes.css'
+// import './shapes.css'
 
 const Shapes = () => {
   function getRandomLength() {
