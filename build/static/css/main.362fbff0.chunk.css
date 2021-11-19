@@ -33,16 +33,15 @@ h1 {
     text-align: center;
 }
 h1 {
-    font-size: clamp(16px, 10vh, 250px);
+    font-size: 14px;
     font-weight: 700;
     line-height: 100%;
-    color: #1f2a44;
+    color: #000000;
     width: 100%;
     padding: 0 2rem;
     z-index: 1;
 }
 
-/* 
 .shape-container {
     height: 100vh;
 }
@@ -87,7 +86,7 @@ h1 {
     grid-gap: 1rem;
     grid-template-columns: 1fr 0.25fr 1fr;
     place-items: center;
-    background-color: #1f2a44;
+    background-color: #ffffff;
     padding: clamp(0.5rem, 5vw, 2rem);
     border-radius: 3rem;
     z-index: 2;
@@ -103,4 +102,3 @@ h1 {
     border-left: 2px solid #fff;
     height: 100%;
 }
-*/
