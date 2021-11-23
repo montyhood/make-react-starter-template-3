@@ -35,7 +35,7 @@ h1 {
   line-height: 100%;
   color: #1f2a44;
   text-align: center;
-  width: 10px;
+  width: 270px !important;
   padding: 0 2rem;
   z-index: 1;
 }
