@@ -2,7 +2,7 @@
 html,body {
   margin: 0;
   padding:0;
-  overflow:hidden;
+  overflow-wrap: normal;
   max-width: 180px;
   max-height: 280px;
   font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
